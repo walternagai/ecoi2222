@@ -9,6 +9,12 @@
 - Manipulação de arquivos de texto. 
 - Bibliotecas de funções matemáticas, funções estatísticas, manipulação de matrizes e plotagem de gráficos.
 
+## Objetivos
+
+## Conteúdo
+
+## Competências e habilidades
+
 ## Referências bibliográficas
 
 ### Básicas
