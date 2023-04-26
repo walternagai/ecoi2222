@@ -19,6 +19,9 @@
 
 ### Complementares
 
-1. GRUS, Joel. Data Science do zero: noções fundamentais com Python. 2.ed. Rio de Janeiro: Alta Books, 2021. xxiii, 389 p. ISBN: 9788550811765.
-2. MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. 3. ed., rev. e ampl. São Paulo: Novatec, c2019. 328 p. ISBN: 9788575227183.
-3. KOPEC, David. Problemas Clássicos de Ciência da Computação com Python. São Paulo: Novatec, 2019. 272 p. ISBN: 9788575228050, 9788575228067.
+1. MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. 3. ed., rev. e ampl. São Paulo: Novatec, c2019. 328 p. ISBN: 9788575227183.
+2. GRUS, Joel. Data Science do zero: noções fundamentais com Python. 2.ed. Rio de Janeiro: Alta Books, 2021. xxiii, 389 p. ISBN: 9788550811765.
+3. MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. 3. ed., rev. e ampl. São Paulo: Novatec, c2019. 328 p. ISBN: 9788575227183.
+4. KOPEC, David. Problemas Clássicos de Ciência da Computação com Python. São Paulo: Novatec, 2019. 272 p. ISBN: 9788575228050, 9788575228067.
+5. KOPEC, David. Problemas clássicos de ciência da computação com Python. São Paulo: Novatec Manning, 2019. 272 p. ISBN: 9788575228050.
+
